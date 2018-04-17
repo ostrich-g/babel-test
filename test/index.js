@@ -1,5 +1,5 @@
 
-const reloadCode = require('./method.js');
+const reloadCode = require('../src/method');
 
 const code = `function square(n) {
     return n * n;
