@@ -1,0 +1,29 @@
+{
+  "name": "bebal-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "babylon": "^6.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ostrich-g/babel-test.git"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "lixi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ostrich-g/babel-test/issues"
+  },
+  "homepage": "https://github.com/ostrich-g/babel-test#readme"
+}
