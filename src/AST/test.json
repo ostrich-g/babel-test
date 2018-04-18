@@ -78,7 +78,7 @@
 							},
 							"identifierName": "n"
 						},
-						"name": "n"
+						"name": "testName"
 					}
 				],
 				"body": {
@@ -139,7 +139,7 @@
 										},
 										"identifierName": "n"
 									},
-									"name": "n"
+									"name": "testName"
 								},
 								"operator": "*",
 								"right": {
@@ -157,7 +157,7 @@
 										},
 										"identifierName": "n"
 									},
-									"name": "n"
+									"name": "testName"
 								}
 							}
 						}
