@@ -1,5 +1,5 @@
+const colors = require( "colors");
 const setColor = () => {
-  const colors = require( "colors");
 	colors.setTheme({
 		info: 'green',
 		warn: 'yellow',

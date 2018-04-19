@@ -1,6 +1,5 @@
 
-const reloadCode = require('../src/method');
-
+const { reloadCode } = require('../src/untils');
 const code = `function square(n) {
     return n * n;
   }`;

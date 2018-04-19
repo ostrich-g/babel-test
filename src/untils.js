@@ -29,10 +29,12 @@ const reloadCode = (name, code) => {
 	});
 	try {
 		fs.writeFileSync(`./src/AST/${name}.json`, JSON.stringify(AST, null, '\t'));
-		console.log('转换成功！'.info);
+		console.log('AST转换成功！'.info);
 	} catch(e){
 		throw e;
 	}
 }
 
-module.exports = reloadCode;
+module.exports = {
+  reloadCode
+};
